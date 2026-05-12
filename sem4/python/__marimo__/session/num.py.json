@@ -1,0 +1,282 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.5",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "6e455568e553f1756b4240cb5ba326e4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "iAVA",
+      "code_hash": "0409c9682b5ee6b37f64c366653148ba",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"1d-array-of-int-from-0-to-9\">1D array of int from 0 to 9</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "xMKP",
+      "code_hash": "1f87102ddf0e22b304475c2372c73645",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "dWTL",
+      "code_hash": "8d59b4ca2dc65f536b597b24b8a4f11a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"2x3-array-with-zeros\">2x3 array with zeros</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SoMe",
+      "code_hash": "7e09cfcf8586566360b2f9783ac0b770",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([[0., 0., 0.],\n       [0., 0., 0.]])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BBnE",
+      "code_hash": "8789b60ffee84904883350e241160092",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "WNUw",
+      "code_hash": "70f2d7dd0fd5fd70f6cb6baf881671ae",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"3x3-identity-matrix\">3x3 identity matrix</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "gEQC",
+      "code_hash": "4a022b0fd78241ebbb02e93a9d952e1c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([[1., 0., 0.],\n       [0., 1., 0.],\n       [0., 0., 1.]])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "tWgG",
+      "code_hash": "97897628d5acb786422e883eeb5cf4ac",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"array-of-even-numbers-from-2-to-20\">array of even numbers from 2 to 20</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "hXIt",
+      "code_hash": "06ed00d482e5874d8c0ce3fa16e4526f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([ 2,  4,  6,  8, 10, 12, 14, 16, 18, 20])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Gclu",
+      "code_hash": "0b8749db2107180e5a3a7d11060e3ff6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"create-5-values-between-0-1-inclusive\">create 5 values between 0 1 inclusive</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "gQzH",
+      "code_hash": "dfe2a2841b95a70b11d32ace02561bde",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([0.  , 0.25, 0.5 , 0.75, 1.  ])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "EuDG",
+      "code_hash": "d6937ca06ad4a45dd8b03309454f9841",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"4x4-array-filled-with-ones-of-dtype-int64\">4x4 array filled with ones of dtype <code>int64</code></h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Bfed",
+      "code_hash": "736d297a2540b3dc8cd382d9bd06cd61",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([[3, 3, 3],\n       [3, 3, 3]])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "YymD",
+      "code_hash": "d8c04139aec7de7f9841145a9b029c3c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"3x2-matrix-containing-1-to-6\">3x2 matrix containing 1 to 6</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "whGB",
+      "code_hash": "cd870531f7f40ec733219f3ffd865d55",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([[1, 2],\n       [3, 4],\n       [5, 6]])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Unvm",
+      "code_hash": "082fcf0ce6ef160c80e6447114b53130",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"convert-list-into-array\">convert list into array</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PgEj",
+      "code_hash": "11915223011683b17b6e93e8b3a5f020",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([1, 2, 3, 4])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "JvDz",
+      "code_hash": "1341eb078ab128e1f770b2c8897c199a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"9-find-dtype-shape-size-and-ndim-of-an-array-and-print-them\">9. find dtype, shape, size, and ndim of an array and print them</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "tYSs",
+      "code_hash": "745101628f1c8d243c459209707fd551",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "\ndtype = int64\nshape = (3, 4)\nndim = 2\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "kKgU",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    }
+  ]
+}
