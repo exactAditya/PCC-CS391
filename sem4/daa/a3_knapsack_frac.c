@@ -50,7 +50,7 @@ int main(){
       arr[i] = (float)capacity/items[i].weight;
       total_val += items[i].price * arr[i];
       capacity = 0;
-      printf("Item%d was taken %0.2f%% ",items[i].idx, arr[i]*100);
+      printf("Item%d was taken %0.2f%%\n",items[i].idx, arr[i]*100);
       break;
     }
     capacity -= items[i].weight;

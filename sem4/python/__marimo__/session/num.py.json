@@ -19,7 +19,7 @@
       "console": []
     },
     {
-      "id": "iAVA",
+      "id": "MJUe",
       "code_hash": "0409c9682b5ee6b37f64c366653148ba",
       "outputs": [
         {
@@ -32,20 +32,13 @@
       "console": []
     },
     {
-      "id": "xMKP",
+      "id": "vblA",
       "code_hash": "1f87102ddf0e22b304475c2372c73645",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "dWTL",
+      "id": "bkHC",
       "code_hash": "8d59b4ca2dc65f536b597b24b8a4f11a",
       "outputs": [
         {
@@ -58,21 +51,14 @@
       "console": []
     },
     {
-      "id": "SoMe",
+      "id": "lEQa",
       "code_hash": "7e09cfcf8586566360b2f9783ac0b770",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>array([[0., 0., 0.],\n       [0., 0., 0.]])</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "BBnE",
-      "code_hash": "8789b60ffee84904883350e241160092",
+      "id": "PKri",
+      "code_hash": "e181efcf155eef21719f37511de1f32f",
       "outputs": [
         {
           "type": "data",
@@ -84,7 +70,7 @@
       "console": []
     },
     {
-      "id": "WNUw",
+      "id": "Xref",
       "code_hash": "70f2d7dd0fd5fd70f6cb6baf881671ae",
       "outputs": [
         {
@@ -97,20 +83,13 @@
       "console": []
     },
     {
-      "id": "gEQC",
+      "id": "SFPL",
       "code_hash": "4a022b0fd78241ebbb02e93a9d952e1c",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>array([[1., 0., 0.],\n       [0., 1., 0.],\n       [0., 0., 1.]])</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "tWgG",
+      "id": "BYtC",
       "code_hash": "97897628d5acb786422e883eeb5cf4ac",
       "outputs": [
         {
@@ -123,20 +102,13 @@
       "console": []
     },
     {
-      "id": "hXIt",
+      "id": "RGSE",
       "code_hash": "06ed00d482e5874d8c0ce3fa16e4526f",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>array([ 2,  4,  6,  8, 10, 12, 14, 16, 18, 20])</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "Gclu",
+      "id": "Kclp",
       "code_hash": "0b8749db2107180e5a3a7d11060e3ff6",
       "outputs": [
         {
@@ -149,20 +121,13 @@
       "console": []
     },
     {
-      "id": "gQzH",
+      "id": "emfo",
       "code_hash": "dfe2a2841b95a70b11d32ace02561bde",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>array([0.  , 0.25, 0.5 , 0.75, 1.  ])</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "EuDG",
+      "id": "Hstk",
       "code_hash": "d6937ca06ad4a45dd8b03309454f9841",
       "outputs": [
         {
@@ -175,20 +140,13 @@
       "console": []
     },
     {
-      "id": "Bfed",
+      "id": "nWHF",
       "code_hash": "736d297a2540b3dc8cd382d9bd06cd61",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>array([[3, 3, 3],\n       [3, 3, 3]])</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "YymD",
+      "id": "iLit",
       "code_hash": "d8c04139aec7de7f9841145a9b029c3c",
       "outputs": [
         {
@@ -201,20 +159,13 @@
       "console": []
     },
     {
-      "id": "whGB",
+      "id": "ZHCJ",
       "code_hash": "cd870531f7f40ec733219f3ffd865d55",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>array([[1, 2],\n       [3, 4],\n       [5, 6]])</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "Unvm",
+      "id": "ROlb",
       "code_hash": "082fcf0ce6ef160c80e6447114b53130",
       "outputs": [
         {
@@ -227,20 +178,13 @@
       "console": []
     },
     {
-      "id": "PgEj",
+      "id": "qnkX",
       "code_hash": "11915223011683b17b6e93e8b3a5f020",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>array([1, 2, 3, 4])</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "JvDz",
+      "id": "TqIu",
       "code_hash": "1341eb078ab128e1f770b2c8897c199a",
       "outputs": [
         {
@@ -253,8 +197,27 @@
       "console": []
     },
     {
-      "id": "tYSs",
+      "id": "Vxnm",
       "code_hash": "745101628f1c8d243c459209707fd551",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "DnEU",
+      "code_hash": "32aa2dd7b34cd9f52d54745d6d69b733",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"10-change-array-dtype-from-float64-to-int32\">10. change array dtype from float64 to int32</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ulZA",
+      "code_hash": "e073ea0232f7e77b60a64f3e41d1f3f6",
       "outputs": [
         {
           "type": "data",
@@ -267,15 +230,501 @@
         {
           "type": "stream",
           "name": "stdout",
-          "text": "\ndtype = int64\nshape = (3, 4)\nndim = 2\n",
+          "text": "float64\nint32\n",
           "mimetype": "text/plain"
         }
       ]
     },
     {
-      "id": "kKgU",
-      "code_hash": null,
-      "outputs": [],
+      "id": "ecfG",
+      "code_hash": "c17df34acf48a0375173b79aa2de7e9a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"11-boolean-array-from-mixed-list-like-true-false-1-0\">11. boolean array from mixed list like [True, False, 1, 0]</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Pvdt",
+      "code_hash": "575dadb2413fb359fde21bc4b5ca0106",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "[ True False  True False]\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "ZBYS",
+      "code_hash": "a0028940a42f3323a2eec898bc1b560e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"12-use-zeros-to-create-3x3-float-array-and-assign-a-value-to-element-12\">12. use zeros to create 3x3 float array and assign a value to element (1,2)</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aLJB",
+      "code_hash": "7d9706254339dc29dc6ba9407243510d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "[[0. 0. 0.]\n [0. 0. 3.]\n [0. 0. 0.]]\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "nHfw",
+      "code_hash": "86fd1eed5ac77a73093792a633036698",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"13-array-of-10-random-floats-between-0-and-1\">13. array of 10 random floats between 0 and 1</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "rHiT",
+      "code_hash": "9b5c84e892f73ca3a80f63ab68d0dba6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([0.63856918, 0.35684641, 0.67239709, 0.10659878, 0.12672343,\n       0.68343194, 0.45806502, 0.75574308, 0.16569614, 0.89053813])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "yfTU",
+      "code_hash": "cc82265b09a40b934750834499b53f86",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"14-5x5-array-of-random-ints-between-0-and-9\">14. 5x5 array of random ints between 0 and 9</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZwcZ",
+      "code_hash": "3c5b041cc3d09f970f97c2fadcac864f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([[6, 1, 9, 7, 6],\n       [3, 0, 6, 5, 5],\n       [4, 7, 4, 1, 2],\n       [9, 8, 9, 4, 8],\n       [2, 2, 4, 6, 6]])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ykzN",
+      "code_hash": "b71bdf623e1a2d9808c88268f2e0155f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"15-seed-random-generator-and-show-reproducibility-of-nprandomrand\">15. seed random generator and show reproducibility of <code>np.random.rand</code></h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Flyl",
+      "code_hash": "58b1ead10630caf74637ac786a4edbce",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "[0.9600173  0.69951205 0.99986729 0.2200673  0.36105635]\n[0.9600173  0.69951205 0.99986729 0.2200673  0.36105635]\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "lEFJ",
+      "code_hash": "05609e326b29a7a6ea818d97d0af8ff3",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"16-construct-a-3d-array-of-shape-234\">16. construct a 3d array of shape (2,3,4)</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "HDfR",
+      "code_hash": "debd7e6e643019477f25099d1cb63c6b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "[[[ 0  1  2  3]\n  [ 4  5  6  7]\n  [ 8  9 10 11]]\n\n [[12 13 14 15]\n  [16 17 18 19]\n  [20 21 22 23]]]\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "OGGx",
+      "code_hash": "ac2f8f20bc8444e542ba2356f53190c1",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"17-perform-vector-addition\">17. perform vector addition</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "NXne",
+      "code_hash": "a4072086851a624776e0457d35c4d280",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([0, 2, 4, 6, 8])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "xjKa",
+      "code_hash": "02702b4a2755dcf61ec8311d5f5bae54",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"18-multiply-arrays-element-wise-and-compute-dot-product\">18. multiply arrays element-wise and compute dot product</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Pwgw",
+      "code_hash": "371c960591c991f844f530e97438c4c1",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>np.int64(14)</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "imsL",
+      "code_hash": "0b0d2f4b67f60fa7719ce201a539edb2",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"19-add-5-to-2x4-array\">19. add 5 to 2x4 array</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "kYkl",
+      "code_hash": "1a80ac0d2138a8e8856daa9b9f4e6fb6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([[52, 32, 76, 26],\n       [68, 47, 58, 61]])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "YJzi",
+      "code_hash": "372c28fed9b500bac879b7ce663086a8",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"20-broadcast-1d-array-to-2x3-matrix\">20. broadcast 1d array to 2x3 matrix</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "rEfh",
+      "code_hash": "c08f734d23d4008c5c7285141da2cce4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([[1., 2., 3.],\n       [1., 2., 3.]])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PXWA",
+      "code_hash": "0a067d6ad58d383bd0966ed282fc2646",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"21-replace-negative-values-with-zero-in-an-array\">21. replace negative values with zero in an array</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "KwiC",
+      "code_hash": "3c2753e835610e8be595a835b2217a70",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>array([[0, 0, 0],\n       [1, 2, 3]])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "rqpF",
+      "code_hash": "166a48790721337db8b29a5cd12fa275",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"22-find-sum-mean-std-var-of-1d-array\">22. find sum, mean, std, var of 1d array</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "qKGO",
+      "code_hash": "15cefe72e8acbe93b39dbe91b3aff913",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "\nsum = 0\nmean = 0.0\nstd = 1.4142135623730951\nvar = 2.0\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "uqEs",
+      "code_hash": "59b3726d77af47427f871690fa6bebbf",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"23-compute-row-wise-and-column-wise-sum-of-2x4-array\">23. compute row-wise and column-wise sum of 2x4 array</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "okNb",
+      "code_hash": "df232113b576e990d17893c9083cc9a7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "[[-4 -3 -2 -1]\n [ 0  1  2  3]]\nRow sum [-10   6]\nColumn sum [-4 -2  0  2]\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "pzmk",
+      "code_hash": "0725084ecb83cbf55d96fa8722ba3dd6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"24-cumulative-sum-and-cumulative-product-for-1d-array\">24. cumulative sum and cumulative product for 1d array</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "QwzS",
+      "code_hash": "5ffff0f0d2bbc04ea8cb34e318a68a9d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "[[[3 4 5]\n  [1 2 3]]\n\n [[3 4 5]\n  [1 2 3]]]\n\ncumulative product = [     3     12     60     60    120    360   1080   4320  21600  21600\n  43200 129600]\ncumulative sum = [ 3  7 12 13 15 18 21 25 30 31 33 36]\n\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "lyIX",
+      "code_hash": "1388531493b0c841d13879d2300df16c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"25-apply-npsqrt-nplog-npexp-on-float-array\">25. apply <code>np.sqrt</code>, <code>np.log</code>, <code>np.exp</code> on float array</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Asia",
+      "code_hash": "4f7ba5f911f035c13b8b6a1ee16b38ac",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Original array:\n [0.18291494 0.89337042 0.6699742  0.17286615 0.84243769]\nSqrt array:\n [0.42768556 0.94518274 0.81851952 0.41577176 0.91784404]\nLog array:\n [-1.69873403 -0.11275398 -0.40051607 -1.75523766 -0.17145558]\nExp array:\n [1.20071227 2.44335091 1.95418691 1.18870699 2.32202044]\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "iASr",
+      "code_hash": "b880fab2666ef7c53158428ac95681df",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"26-apply-sin-and-cos-function-on-array-of-angles\">26. apply <code>sin</code> and <code>cos</code> function on array of angles</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "JaoE",
+      "code_hash": "676618c8211717a9ab90cc4376b0b98a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Original array:\n [0 1 2 3 4]\nSin array:\n [ 0.          0.84147098  0.90929743  0.14112001 -0.7568025 ]\nCos array:\n [ 1.          0.54030231 -0.41614684 -0.9899925  -0.65364362]\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "ekGn",
+      "code_hash": "adaf7d4eb45395466f8d0dd8734a27eb",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"27-perform-element-wise-exponentiation-of-arrays\">27. perform element-wise exponentiation of arrays</h2></span>"
+          }
+        }
+      ],
       "console": []
     }
   ]
