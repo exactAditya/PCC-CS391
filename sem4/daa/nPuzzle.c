@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h> 
 #define MAX_LENGTH 1000
 
 typedef struct{
@@ -45,41 +44,30 @@ int move(int n, int board[n][n], char act, int* i, int* j){
   int old_i = *i;
   int old_j = *j;
   int temp;
-  if (act =='u' && old_i -1 >= 0){
+  if (act =='u' && old_i -1 >= 0)
     *i = old_i -1;
-    temp = board[old_i][old_j];
-    board[old_i][old_j] = board[*i][*j];
-    board[*i][*j] = temp;
-  }
-  else if (act == 'd' && old_i +1 < n){
+  else if (act == 'd' && old_i +1 < n)
     *i = old_i +1;
-    temp = board[old_i][old_j];
-    board[old_i][old_j] = board[*i][*j];
-    board[*i][*j] = temp;
-  }
-  else if (act == 'l' && old_j-1 >= 0){
+  else if (act == 'l' && old_j-1 >= 0)
     *j = old_j -1;
-    temp = board[old_i][old_j];
-    board[old_i][old_j] = board[*i][*j];
-    board[*i][*j] = temp;
-  }
-  else if (act == 'r' && old_j +1 < n){
+  else if (act == 'r' && old_j +1 < n)
     *j = old_j +1;
-    temp = board[old_i][old_j];
-    board[old_i][old_j] = board[*i][*j];
-    board[*i][*j] = temp;
-  }
   else {
     printf("Not valid action. So no action taken!\n");
     return -1;
   }
+  temp = board[old_i][old_j];
+  board[old_i][old_j] = board[*i][*j];
+  board[*i][*j] = temp;
   return 0;
 }
 
 void print_solution(){
+  printf("Start of solution! \n");
   for (int i = 0; i < top; i++){
     printf("%c\n", solution[i]);
   }
+  printf("End of solution! \n");
 }
 void solve(int n, int board[n][n], char prev_act, int i, int j){
   if (value(n, board) == 0){
@@ -90,24 +78,15 @@ void solve(int n, int board[n][n], char prev_act, int i, int j){
   int no_actions = 0;
   
   // find merits of all actions
-  if ('u' != prev_act && move(n, board, 'u', &i, &j) == 0){
-    actions[no_actions++] = (act_val){.act = 'u', .val = value(n, board)};
-    move(n, board, 'd', &i, &j);
-  }
-  
-  if ('d' != prev_act && move(n, board, 'd', &i, &j) == 0){
-    actions[no_actions++] = (act_val){.act = 'd', .val = value(n, board)};
-    move(n, board, 'u', &i, &j);
-  }
-
-  if ('l' != prev_act && move(n, board, 'l', &i, &j) == 0){
-    actions[no_actions++] = (act_val) {.act = 'l', .val = value(n, board)};
-    move(n, board, 'r', &i, &j);
-  }
-  
-  if ('r' != prev_act && move(n, board, 'r', &i, &j) == 0){
-    actions[no_actions++] = (act_val) {.act = 'r', .val = value(n, board)};
-    move(n, board, 'l', &i, &j);
+  char available_acts[] = {'u','d','l','r'};
+  char act;
+  for (int k = 0; k < 4; k++){
+    act = available_acts[k];
+    printf("%c %c %d\n",act, opposite(act),k);
+    if (prev_act != opposite(act) && move(n, board, act, &i, &j) == 0){
+      actions[no_actions++] = (act_val){.act = act, .val = value(n, board)};
+      move(n, board, opposite(act), &i, &j);
+    }
   }
 
   // sort the actions based on value in ascending
